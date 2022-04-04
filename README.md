@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GERALD
 - 👀 I’m interested in Vue.js Node.js and Javascript
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning on Javascript environment
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ? Linkedin and personel website
 
